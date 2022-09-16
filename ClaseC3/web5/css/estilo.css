@@ -1,0 +1,15 @@
+﻿.eje path {
+    fill:none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+ 
+.eje line {
+    fill:none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+ 
+.eje text {
+    font-size: 8px;
+}
