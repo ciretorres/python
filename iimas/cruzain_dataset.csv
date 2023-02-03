@@ -1,0 +1,345 @@
+ID,SMILES,pIC50,Group,Chemical family,Journal,Year,PubMed ID,DOI
+CHEMBL90475,S=C(Nc1cccc(Cl)c1)N1CCC(c2cccc(Br)c2)=N1,6,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL31000,OCCNc1cc[nH+]c2cc(Cl)ccc12,4.21,Train,Quinoline,Bioorganic & medicinal chemistry.,2017,28215783,10.1016/j.bmc.2017.02.009
+CHEMBL460418,OCCCNc1cc[nH+]c2cc(Cl)ccc12,4.55,Train,Quinoline,Bioorganic & medicinal chemistry.,2017,28215783,10.1016/j.bmc.2017.02.009
+CHEMBL3233092,O=Cc1c(OCC(=O)NCCc2nc3ccccc3[nH]2)ccc2ccccc12,4.87,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL118596,O=C1C(=O)N(Cc2ccccc2)c2ccc(I)cc21,4.05,Train,Isatin,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL336693,O=C1C(=O)N(Cc2ccccc2)c2ccc(Cl)cc21,4.05,Train,Isatin,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL333067,O=C1C(=O)N(Cc2ccc(Cl)cc2)c2ccc(Cl)cc21,5.22,Train,Isatin,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL326185,O=C1C(=O)N(C(=O)OCc2ccccc2)c2ccc(Cl)cc21,4.1,Train,Isatin,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL406555,O=C(Oc1cccnc1)c1cc2ccccc2oc1=O,4.05,Train,Other,Journal of medicinal chemistry.,2008,18333608,10.1021/jm701500e
+CHEMBL289764,O=C(NN=Cc1ccnc2ccccc12)c1ccccc1O,4.52,Test,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL3291142,O=C(NN=Cc1c(-c2ccccc2)no[n+]1[O-])c1ccc([N+](=O)[O-])cc1,4.82,Train,Nacylhydrazone,European journal of medicinal chemistry.,2014,24929292,10.1016/j.ejmech.2014.05.077
+CHEMBL2402103,O=C(Nc1ccc(Cl)cc1)Nc1csc(-c2ccc(C(F)(F)F)cc2)n1,5.92,Train,Amide,Journal of medicinal chemistry.,2013,23611656,10.1021/jm301424d
+CHEMBL330585,O=C(NC(Cc1ccccc1)C(=O)NC(CCc1ccccc1)C(=O)C1CO1)OCc1ccccc1,8,Train,Epoxyester,Bioorganic & medicinal chemistry letters.,2007,17977725,10.1016/j.bmcl.2007.10.056
+CHEMBL2402109,O=C(NC(=S)Nc1ncccc1OCc1ccccc1)c1cccn1S(=O)(=O)c1ccccc1,5.52,Test,Thiosemicarbazone,Journal of medicinal chemistry.,2013,23611656,10.1021/jm301424d
+CHEMBL2158234,O=C(N/N=C/c1ccc2c(c1)OCO2)c1nc(-c2ccc(Br)cc2)no1,7.52,Train,Nacylhydrazone,Bioorganic & medicinal chemistry.,2012,23006639,10.1016/j.bmc.2012.08.047
+CHEMBL37464,O=C(N/N=C/c1ccc(C(=O)[O-])o1)c1cccc([N+](=O)[O-])c1,3.48,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL416237,O=C(N/N=C/c1ccc([N+](=O)[O-])o1)c1cccc([N+](=O)[O-])c1,5.3,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL38981,O=C(N/N=C/c1ccc([N+](=O)[O-])o1)c1cc2ccccc2cc1O,5.22,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL39161,O=C(N/N=C/c1ccc(-c2ccccc2Cl)o1)c1cc2ccccc2cc1O,6.22,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL289164,O=C(N/N=C/c1ccc(-c2ccccc2[N+](=O)[O-])o1)c1ccccc1O,4.7,Test,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL39255,O=C(N/N=C/c1ccc(-c2cccc([N+](=O)[O-])c2)o1)c1ccc2ccccc2c1,5.22,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL38462,O=C(N/N=C/c1ccc(-c2ccc(Cl)cc2)o1)c1ccccc1O,4,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL40503,O=C(N/N=C/c1cc(Br)cs1)c1cnc2ccccc2c1,4.52,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL1079162,O=C(N[C@H](/C=C/S(=O)(=O)c1ccccc1)CCc1ccccc1)C1CCCCC1C(=O)c1ccc(Cl)cc1,7.3,Train,Vinylsulfone,Bioorganic & medicinal chemistry letters.,2009,19773167,10.1016/j.bmcl.2009.08.098
+CHEMBL1078981,O=C(N[C@H](/C=C/S(=O)(=O)c1ccccc1)CCc1ccccc1)c1cc(-c2ccncc2)no1,5.3,Train,Vinylsulfone,Bioorganic & medicinal chemistry letters.,2009,19773167,10.1016/j.bmcl.2009.08.098
+CHEMBL1079067,O=C(N[C@H](/C=C/S(=O)(=O)c1ccccc1)CCc1ccccc1)c1cc(-c2cccnc2)no1,6,Train,Vinylsulfone,Bioorganic & medicinal chemistry letters.,2009,19773167,10.1016/j.bmcl.2009.08.098
+CHEMBL1079068,O=C(N[C@H](/C=C/S(=O)(=O)c1ccccc1)CCc1ccccc1)c1cc(-c2ccccn2)no1,5.22,Train,Vinylsulfone,Bioorganic & medicinal chemistry letters.,2009,19773167,10.1016/j.bmcl.2009.08.098
+CHEMBL1078855,O=C(N[C@H](/C=C/S(=O)(=O)c1ccccc1)CCc1ccccc1)c1cc(-c2ccccc2)no1,5.7,Test,Vinylsulfone,Bioorganic & medicinal chemistry letters.,2009,19773167,10.1016/j.bmcl.2009.08.098
+CHEMBL3233097,O=C(CSc1ccccc1)NCCc1nc2ccccc2[nH]1,4.42,Test,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233083,O=C(COc1ccccc1I)NCCc1nc2ccccc2[nH]1,5.8,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233081,O=C(COc1ccccc1F)NCCc1nc2ccccc2[nH]1,5.28,Test,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233082,O=C(COc1ccccc1Cl)NCCc1nc2ccccc2[nH]1,5.52,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL1173694,O=C(COc1ccccc1Br)NCCc1nc2ccccc2[nH]1,6.1,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233085,O=C(COc1ccccc1[N+](=O)[O-])NCCc1nc2ccccc2[nH]1,4.88,Test,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL1572619,O=C(COc1ccccc1)NCCc1nc2ccccc2[nH]1,4.96,Test,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233090,O=C(COc1cccc2ccccc12)NCCc1nc2ccccc2[nH]1,5.28,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233088,O=C(COc1cccc(Br)c1)NCCc1nc2ccccc2[nH]1,6.1,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233094,O=C(COc1ccc2ccccc2c1O)NCCc1nc2ccccc2[nH]1,5.09,Test,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233093,O=C(COc1ccc2ccccc2c1CO)NCCc1nc2ccccc2[nH]1,4.9,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233095,O=C(COc1ccc2ccccc2c1Br)NCCc1nc2ccccc2[nH]1,6.68,Test,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233118,O=C(COc1ccc2ccccc2c1Br)NCCc1nc2cc(Cl)ccc2[nH]1,6.22,Test,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233091,O=C(COc1ccc2ccccc2c1)NCCc1nc2ccccc2[nH]1,5.52,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3233089,O=C(COc1ccc(Br)cc1)NCCc1nc2ccccc2[nH]1,5.57,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL1173672,O=C(CNC(=O)c1ccccc1)O[C@@H](C(=O)Nc1cc(C(F)(F)F)ccc1Cl)c1ccccc1,6.52,Train,Amide,Journal of medicinal chemistry.,2010,20540517,10.1021/jm100488w
+CHEMBL1172972,O=C(CNC(=O)c1ccc(Cl)cc1)OCC(=O)c1ccc2c(c1)OCCO2,6.3,Train,Amide,Journal of medicinal chemistry.,2010,20540517,10.1021/jm100488w
+CHEMBL1173692,O=C(CNC(=O)c1ccc(Cl)cc1)O[C@@H](C(=O)Nc1ccc(Cl)cc1C(F)(F)F)c1ccccc1,6.15,Test,Amide,Journal of medicinal chemistry.,2010,20540517,10.1021/jm100488w
+CHEMBL3233096,O=C(CCc1ccccc1Br)NCCc1nc2ccccc2[nH]1,4.11,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL2042780,O=C(/C=C/c1ccccc1)NN=Cc1ccccc1O,4.28,Train,Nacylhydrazone,European journal of medicinal chemistry.,2012,22727447,10.1016/j.ejmech.2012.05.041
+CHEMBL2042788,O=C(/C=C/c1ccc2c(c1)OCO2)NN=Cc1ccccc1O,4.13,Train,Nacylhydrazone,European journal of medicinal chemistry.,2012,22727447,10.1016/j.ejmech.2012.05.041
+CHEMBL507837,O=C(/C=C/c1ccc2c(c1)OCO2)c1ccc(Br)cc1,4.7,Train,Chalcone,European journal of medicinal chemistry.,2012,22727447,10.1016/j.ejmech.2012.05.041
+CHEMBL3329513,O=[N+]([O-])c1cccc(-c2csc(/N=N/Cc3ccccn3)n2)c1,5.89,Train,Thiazolylhydrazone,European journal of medicinal chemistry.,2014,25147146,10.1016/j.ejmech.2014.08.012
+CHEMBL453633,O=[N+]([O-])c1ccc(C/N=N/c2nccc(C(F)(F)F)n2)cc1,4,Train,Hydrazone,Bioorganic & medicinal chemistry.,2008,18996017,10.1016/j.bmc.2008.10.052
+CHEMBL550694,Nc1ncccc1C(=O)OCC(=O)NC1CCCCCC1,4.06,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL549615,Nc1ncccc1C(=O)OCC(=O)Nc1ccccc1OC(F)F,3.9,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL563022,Nc1ncccc1C(=O)OCC(=O)Nc1ccc2c(c1)OCCO2,3.74,Test,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL541696,Nc1ncccc1C(=O)OCC(=O)Nc1cc(Cl)ccc1Cl,4.11,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL559770,Nc1ccccc1C(=O)OCC(=O)Nc1cc(Cl)ccc1Cl,4.24,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL557189,Nc1ccccc1-c1nnc(C(=O)NCc2nc3ccccc3[nH]2)o1,4.77,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL549616,Nc1ccccc1-c1nnc(C(=O)NCc2csc(-c3cccs3)n2)o1,5.7,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL560840,Nc1ccccc1-c1nnc(C(=O)NCc2ccnc(N3CCSCC3)c2)o1,4.64,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL565191,Nc1ccccc1-c1nnc(C(=O)NCc2ccnc(N3CCOCC3)c2)o1,4.08,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL554736,Nc1ccccc1-c1nnc(C(=O)NCc2ccccc2OC2CCOCC2)o1,4.38,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL550965,Nc1ccccc1-c1nnc(C(=O)NCc2ccccc2N2CCOCC2)o1,4.42,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL550771,Nc1ccccc1-c1nnc(C(=O)NCc2cccc3nsnc23)o1,5.22,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL560503,Nc1ccccc1-c1nnc(C(=O)NCc2cccc(N3CCOCC3)c2)o1,4.48,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL550287,Nc1ccccc1-c1nnc(C(=O)NCc2cccc(-n3cccn3)c2)o1,4.77,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL550025,Nc1ccccc1-c1nnc(C(=O)NCc2ccc3c(c2)OCO3)o1,5.22,Test,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL563328,Nc1ccccc1-c1nnc(C(=O)NCc2ccc(Oc3ccccc3)cc2)o1,5.22,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL550773,Nc1ccccc1-c1nnc(C(=O)NCc2ccc(Cn3cccn3)cc2)o1,5.1,Test,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL549676,Nc1ccccc1-c1nnc(C(=O)NCc2ccc(C(F)(F)F)c(F)c2)o1,5,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL550836,Nc1ccccc1-c1nnc(C(=O)NCc2c(N)cccc2F)o1,4.28,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL563023,Nc1ccccc1-c1nnc(C(=O)Nc2nnc(-c3ccc(Cl)cc3)s2)o1,5.4,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL562581,Nc1ccccc1-c1nnc(C(=O)Nc2nc(-c3ccc(Cl)cc3)cs2)o1,5.52,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL552725,Nc1ccccc1-c1nnc(C(=O)NC2CCCCCC2)o1,4.6,Test,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL564809,Nc1ccccc1-c1nnc(C(=O)NC2CCCCC2)o1,4.11,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL554300,Nc1ccccc1-c1nnc(C(=O)Nc2ccc3n[nH]cc3c2)o1,4.39,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL563197,Nc1ccccc1-c1nnc(C(=O)Nc2ccc(N3CCOCC3)cc2)o1,4.21,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL572120,Nc1ccccc1-c1nnc(C(=O)NC2Cc3ccccc3C2)o1,4.96,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL560043,Nc1ccccc1-c1nnc(C(=O)N=c2cc(-c3cccs3)[nH][nH]2)o1,4.08,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL561239,Nc1ccccc1-c1nnc(C(=O)N[C@H]2CCc3ccccc32)o1,4.77,Test,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL550633,Nc1ccccc1-c1nnc(C(=O)N[C@@H]2c3ccccc3C[C@@H]2O)o1,4.49,Test,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL4168973,NC1=c2nc(Cc3ccccc3)[nH]c2=NS(=O)(=O)N1,4.64,Train,Imidazothiadiazine,European journal of medicinal chemistry.,2017,28499168,10.1016/j.ejmech.2017.04.075
+CHEMBL4172128,NC1=c2nc(C3CCCCC3)[nH]c2=NS(=O)(=O)N1,4.92,Train,Imidazothiadiazine,European journal of medicinal chemistry.,2017,28499168,10.1016/j.ejmech.2017.04.075
+CHEMBL214219,NC(=S)NN=C1CCS(=O)(=O)c2ccc(Br)cc21,6.68,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2006,16781147,10.1016/j.bmcl.2006.05.041
+CHEMBL213224,NC(=S)NN=C1CCS(=O)(=O)c2c(Br)cc(Br)cc21,6.09,Test,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2006,16781147,10.1016/j.bmcl.2006.05.041
+CHEMBL215671,NC(=S)NN=C1CCOc2ccc(Br)cc21,6.96,Test,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2006,16781147,10.1016/j.bmcl.2006.05.041
+CHEMBL215980,NC(=S)NN=C1CCCc2ccc(Br)cc21,7.77,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2006,16781147,10.1016/j.bmcl.2006.05.041
+CHEMBL182790,NC(=S)NN=C(COc1ccccc1)c1ccc(Cl)c(Cl)c1,7.52,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2005,15582423,10.1016/j.bmcl.2004.10.023
+CHEMBL3613569,NC(=S)NN=C(COc1ccc(Br)cc1)c1ccc(-c2ccccc2)cc1,6.22,Train,Thiosemicarbazone,European journal of medicinal chemistry.,2015,26231082,10.1016/j.ejmech.2015.06.048
+CHEMBL183005,NC(=S)NN=C(CCc1ccccc1)c1ccc(Cl)c(Cl)c1,7.4,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2005,15582423,10.1016/j.bmcl.2004.10.023
+CHEMBL183767,NC(=S)NN=C(Cc1ccccc1)c1ccc(Cl)c(Cl)c1,7.1,Test,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2005,15582423,10.1016/j.bmcl.2004.10.023
+CHEMBL384296,NC(=S)NN=C(c1cccc(Br)c1)c1cccc(Br)c1,7.62,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2006,16781147,10.1016/j.bmcl.2006.05.041
+CHEMBL181902,NC(=S)NN=C(c1ccc(Cl)c(Cl)c1)C1CCCCC1,5.52,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2005,15582423,10.1016/j.bmcl.2004.10.023
+CHEMBL183396,NC(=S)NN=C(c1ccc(Cl)c(Cl)c1)C1CC1c1ccccc1,7.52,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2005,15582423,10.1016/j.bmcl.2004.10.023
+CHEMBL181752,NC(=S)NN=C(C=Cc1ccccc1)c1ccc(Cl)c(Cl)c1,7.52,Test,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2005,15582423,10.1016/j.bmcl.2004.10.023
+CHEMBL90197,NC(=S)N1CCC(c2cccc(Cl)c2)=N1,6.57,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL91640,NC(=S)N1CCC(c2cccc(C(F)(F)F)c2)=N1,7.1,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL314026,NC(=S)N1CCC(c2cccc(Br)c2)=N1,6.7,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL329346,NC(=S)N1CCC(c2ccc(Cl)c(Cl)c2)=N1,7.22,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL119370,NC(=S)N=N[C@@H]1C(=O)Nc2ccc(I)cc21,5.05,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL119756,NC(=S)N=N[C@@H]1C(=O)Nc2ccc(F)cc21,4.52,Test,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL119213,NC(=S)N=N[C@@H]1C(=O)Nc2ccc(Cl)cc21,4.68,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL120254,NC(=S)N=N[C@@H]1C(=O)Nc2ccc([N+](=O)[O-])cc21,4.52,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL385682,NC(=S)N/N=C1\CCCc2c(Br)cccc21,5.92,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2006,16781147,10.1016/j.bmcl.2006.05.041
+CHEMBL94235,NC(=S)N/N=C/c1cccn1S(=O)(=O)c1ccccc1,5.55,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL90688,NC(=S)N/N=C/c1cccc(C(F)(F)F)c1,6.32,Test,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL91844,NC(=S)N/N=C/c1cccc(Br)c1,5.89,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL470902,NC(=S)N/N=C/c1ccc(OCc2ccc3no[n+]([O-])c3c2)cc1,4.37,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2009,19606868,10.1021/jm9004835
+CHEMBL415311,NC(=S)N/N=C/c1ccc(Cl)c(Cl)c1,6.34,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL329128,NC(=S)N/N=C/c1ccc(-c2cccc(Cl)c2)o1,6.85,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL327577,NC(=S)N/N=C/c1ccc(-c2ccc(Cl)cc2)o1,6.52,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL90060,NC(=S)N/N=C/c1ccc(-c2ccc(Br)cc2)o1,6.55,Test,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL421363,NC(=S)N/N=C/c1cc(Cl)cc(Cl)c1,6.25,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL90772,NC(=S)N/N=C/c1cc(C(F)(F)F)cc(C(F)(F)F)c1,6.49,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL376207,NC(=S)N/N=C(\c1ccccc1)c1cccc(Br)c1,7.1,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2006,16781147,10.1016/j.bmcl.2006.05.041
+CHEMBL3613582,NC(=S)N/N=C(/COc1ccc(F)cc1)c1ccc(Br)cc1,6.4,Train,Thiosemicarbazone,European journal of medicinal chemistry.,2015,26231082,10.1016/j.ejmech.2015.06.048
+CHEMBL3613583,NC(=S)N/N=C(/COc1ccc(F)c(Cl)c1)c1ccc(Br)cc1,7.15,Train,Thiosemicarbazone,European journal of medicinal chemistry.,2015,26231082,10.1016/j.ejmech.2015.06.048
+CHEMBL3613587,NC(=S)N/N=C(/COc1ccc(Cl)c(Cl)c1)c1ccc(Br)cc1,8.1,Train,Thiosemicarbazone,European journal of medicinal chemistry.,2015,26231082,10.1016/j.ejmech.2015.06.048
+CHEMBL333137,NC(=S)/N=N/[C@@H]1C(=O)Nc2ccccc21,5.1,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL418861,NC(=S)/N=N/[C@@H]1C(=O)Nc2ccc(Br)cc21,4.7,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL554709,NC(=O)c1ccsc1NC(=O)COC(=O)c1cc(Br)ccc1N,4.05,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL512308,NC(=[NH2+])N/N=C/c1ccc(OCc2ccc3no[n+]([O-])c3c2)cc1,4.49,Test,Hydrazone,Bioorganic & medicinal chemistry.,2008,18547811,10.1016/j.bmc.2008.05.038
+CHEMBL4161560,N=C1NS(=O)(=O)N(Cc2ccccc2)c2nc(-c3ccccc3)n(Cc3ccccc3)c21,4.09,Test,Imidazothiadiazine,European journal of medicinal chemistry.,2017,28499168,10.1016/j.ejmech.2017.04.075
+CHEMBL4176677,N=C1NS(=O)(=O)N(Cc2ccc(Cl)cc2)c2[nH]c(-c3ccccc3F)nc21,4.07,Train,Imidazothiadiazine,European journal of medicinal chemistry.,2017,28499168,10.1016/j.ejmech.2017.04.075
+CHEMBL567769,N#Cc1nc(NCCO)nc(Nc2ccccc2)n1,5.8,Test,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567137,N#Cc1nc(NCCCCO)nc(Nc2ccccc2)n1,6.05,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567135,N#Cc1nc(NCC2CC2)nc(Nc2ccccc2)n1,6.05,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567340,N#Cc1nc(NCC(F)F)nc(Nc2cc(F)cc(F)c2)n1,9,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL566905,N#Cc1nc(NCC(F)F)c2ncn(-c3cccc(Cl)c3)c2n1,7.15,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567786,N#Cc1nc(NCC(F)F)c2ncn(-c3cc(F)cc(F)c3)c2n1,7.3,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL578161,N#Cc1nc(Nc2ccccc2)nc(NC2CCCCC2)n1,5.85,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL566069,N#Cc1nc(Nc2ccccc2)nc(NC2CCCC2)n1,6.15,Test,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL585873,N#Cc1nc(NC2CCCC2)c2ncn(-c3cc(F)cc(F)c3)c2n1,6.5,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567784,N#Cc1nc(Nc2cccc(F)c2)nc(NC2CCCC2)n1,8,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567785,N#Cc1nc(Nc2cccc(Cl)c2)nc(NC2CCCC2)n1,8.7,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL578162,N#Cc1nc(Nc2cccc(Cl)c2)c2ncn(C3CCCC3)c2n1,9.52,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL579273,N#Cc1nc(Nc2cccc(C(F)(F)F)c2)nc(NC2CCCC2)n1,7.4,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL566924,N#Cc1nc(Nc2cccc(Br)c2)nc(NC2CCCC2)n1,8.7,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567783,N#Cc1nc(Nc2cccc([N+](=O)[O-])c2)nc(NC2CCCC2)n1,9,Test,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL566273,N#Cc1nc(Nc2cccc(-c3ccccc3)c2)nc(NC2CCCC2)n1,7.3,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567147,N#Cc1nc(Nc2ccc(F)cc2)nc(NC2CCCC2)n1,7.52,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL566903,N#Cc1nc(Nc2ccc(Br)cc2)nc(NC2CCCC2)n1,7.22,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL568171,N#Cc1nc(Nc2cc(F)cc(F)c2)nc(NC2CCCC2)n1,8.4,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL578159,N#Cc1nc(Nc2cc(F)cc(F)c2)c2ncn(CC(F)F)c2n1,7.89,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567142,N#Cc1nc(Nc2cc(F)cc(F)c2)c2ncn(C3CCCC3)c2n1,7.74,Test,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL568172,N#Cc1nc(Nc2cc(Cl)cc(Cl)c2)nc(NC2CCCC2)n1,8,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL577764,N#Cc1nc(N)nc(N(c2ccccc2)c2ccccc2)n1,7.15,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL3233084,N#Cc1ccccc1OCC(=O)NCCc1nc2ccccc2[nH]1,4.19,Test,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL409024,N[C@@H](Cc1cc(-c2ccc(Cl)cc2Cl)cc(C[PH](=O)(=O)[O-])c1O)C(=O)O,3.8,Train,Other,Journal of medicinal chemistry.,2008,18333608,10.1021/jm701500e
+CHEMBL455669,FC(F)(F)c1ccnc(/N=N/Cc2ccc(Cl)cc2)n1,4.07,Test,Hydrazone,Bioorganic & medicinal chemistry.,2008,18996017,10.1016/j.bmc.2008.10.052
+CHEMBL90354,FC(F)(F)c1cccc(NC(=S)N2CCC(c3cccc(Cl)c3)=N2)c1,5.77,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL40165,CSc1ccc(/C=N/NC(=O)c2cccc(C)c2O)s1,5,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL2402106,CS(=O)(=O)c1sc(C(=O)NC(=S)Nc2ccc(OC(F)(F)F)cc2)c2ccccc12,5.16,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2013,23611656,10.1021/jm301424d
+CHEMBL1288529,CS(=O)(=O)c1ccc(-c2ccc([C@@H](NC(Cc3ccccc3)C(=O)N[C@@H](C#N)Cc3ccccc3)C(F)(F)F)cc2)cc1,8.15,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1289988,CS(=O)(=O)c1ccc(-c2ccc([C@@H](NC(CC3CC3)C(=O)N[C@@H](C#N)Cc3ccccc3)C(F)(F)F)cc2)cc1,7.8,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1290084,CS(=O)(=O)c1ccc(-c2ccc([C@@H](NC(CC(Cl)Cl)C(=O)N[C@@H](C#N)Cc3ccccc3)C(F)(F)F)cc2)cc1,10,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1290303,CS(=O)(=O)c1ccc(-c2ccc([C@@H](NC(C(=O)N[C@@H](C#N)Cc3ccccc3)C3CC3)C(F)(F)F)cc2)cc1,8.15,Test,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1173673,COCCn1c(C)cc(C(=O)COC(=O)CNC(=O)c2ccccc2)c1C,4.74,Train,Amide,Journal of medicinal chemistry.,2010,20540517,10.1021/jm100488w
+CHEMBL3628945,COCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)(NCc2ccn3nccc3n2)C2CCCC2)nn1,5.55,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628940,COCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)([NH2+]Cc2ccc3ncsc3c2)C2CCCC2)nn1,6.91,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628937,COCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)([NH2+]Cc2ccc3ncsc3c2)C(C)C)nn1,7.2,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628592,COCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)([NH2+]Cc2ccc3ncccc3c2)C(C)C)nn1,6.47,Test,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL93774,COc1ccccc1-c1ccc(/C=N/NC(N)=S)o1,6.55,Test,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL408636,COc1cccc2cc(C(=O)n3ccc(C)n3)c(=O)oc12,3.97,Test,Other,Journal of medicinal chemistry.,2008,18333608,10.1021/jm701500e
+CHEMBL324722,COc1cccc(CN2C(=O)C(=O)c3cc(C)ccc32)c1,5.7,Train,Isatin,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL90867,COc1ccc2ccccc2c1/C=N/NC(N)=S,6.25,Test,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL2042801,COc1ccc2cc(O)c(C(=O)NN=Cc3c(O)ccc4ccccc34)cc2c1,6.22,Test,Nacylhydrazone,European journal of medicinal chemistry.,2012,22727447,10.1016/j.ejmech.2012.05.041
+CHEMBL39253,COc1ccc2cc(O)c(C(=O)N/N=C/c3ccc(-c4cc(C(F)(F)F)nn4C)s3)cc2c1,6.7,Test,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL3233119,COc1ccc2[nH]c(CCNC(=O)COc3ccc4ccccc4c3Br)nc2c1,6.27,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL564453,COc1ccc(OC)c(CNC(=O)c2nnc(-c3ccccc3N)o2)c1,4.36,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL561904,COc1ccc(NC(=O)c2nnc(-c3ccccc3N)o2)c(OC)c1,4.57,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL1172021,COc1ccc(Cl)cc1NC(=O)COC(=O)[C@H](CC(C)C)N1C(=O)C2CC=CCC2C1=O,6,Train,Amide,Journal of medicinal chemistry.,2010,20540517,10.1021/jm100488w
+CHEMBL285167,COc1ccc(C(=O)N/N=C/c2ccoc2)c(OC)c1,3.78,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL3329519,COc1ccc(-c2csc(/N=N/[C@@H](C)c3ccccn3)n2)cc1,7.4,Train,Thiazolylhydrazone,European journal of medicinal chemistry.,2014,25147146,10.1016/j.ejmech.2014.08.012
+CHEMBL40119,COc1cc(OC)cc(C(=O)N/N=C/c2ccc(C(=O)[O-])o2)c1,5,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL2158132,COc1cc(C=NNC(=O)c2nc(-c3ccc(Cl)cc3)no2)ccc1O,7.4,Test,Nacylhydrazone,Bioorganic & medicinal chemistry.,2012,23006639,10.1016/j.bmc.2012.08.047
+CHEMBL2158133,COc1cc(C=NNC(=O)c2nc(-c3ccc(Br)cc3)no2)ccc1O,6.7,Train,Nacylhydrazone,Bioorganic & medicinal chemistry.,2012,23006639,10.1016/j.bmc.2012.08.047
+CHEMBL2042791,COc1cc(C=NNC(=O)/C=C/c2cc(OC)c(OC)c(OC)c2)cc([N+](=O)[O-])c1[O-],4.34,Test,Nacylhydrazone,European journal of medicinal chemistry.,2012,22727447,10.1016/j.ejmech.2012.05.041
+CHEMBL2042793,COc1cc(C=NNC(=O)/C=C/c2cc(OC)c(OC)c([N+](=O)[O-])c2)cc([N+](=O)[O-])c1[O-],4.35,Train,Nacylhydrazone,European journal of medicinal chemistry.,2012,22727447,10.1016/j.ejmech.2012.05.041
+CHEMBL2042792,COc1cc(/C=C/C(=O)NN=Cc2ccccc2O)cc([N+](=O)[O-])c1OC,4.08,Train,Nacylhydrazone,European journal of medicinal chemistry.,2012,22727447,10.1016/j.ejmech.2012.05.041
+CHEMBL567354,CNc1nc(C#N)nc(Nc2ccccc2)n1,5.9,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL2402102,Cn1nc(C(F)(F)F)cc1-c1ccc(NC(=O)Nc2cccc(C(F)(F)F)c2)s1,5.51,Train,Amide,Journal of medicinal chemistry.,2013,23611656,10.1021/jm301424d
+CHEMBL91830,Cn1nc(-c2ccc(/C=N/NC(N)=S)s2)cc1C(F)(F)F,5.15,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL91704,CN1CCN(C(=O)NC(Cc2ccccc2)C(=O)N[C@H](/C=C/S(=O)(=O)c2ccccc2)CCc2ccccc2)CC1,8.4,Train,Vinylsulfone,Bioorganic & medicinal chemistry letters.,2009,19773167,10.1016/j.bmcl.2009.08.098
+CHEMBL90808,Cn1c(/C=N/NC(N)=S)cc2ccccc21,5.55,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL289374,CN(C)c1ccc(/C=N/NC(=O)c2ccnc3ccccc23)c2ccccc12,5.22,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL39814,CN(C)c1ccc(/C=N/NC(=O)c2ccccc2)c2ccccc12,6.3,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL39723,CN(C)c1ccc(/C=N/NC(=O)c2ccc(O)c(O)c2)c2ccccc12,4.79,Train,Nacylhydrazone,Bioorganic & medicinal chemistry letters.,2002,12031337,10.1016/s0960-894x(02)00189-0
+CHEMBL148139,Clc1ccc2c(NCCN3CCOCC3)cc[nH+]c2c1,4.39,Train,Quinoline,Bioorganic & medicinal chemistry.,2017,28215783,10.1016/j.bmc.2017.02.009
+CHEMBL1241726,Clc1ccc2c(NCCC[NH+]3CCOCC3)ccnc2c1,4.82,Train,Quinoline,Bioorganic & medicinal chemistry.,2017,28215783,10.1016/j.bmc.2017.02.009
+CHEMBL528696,Clc1ccc2c(NCc3ccccc3)cc[nH+]c2c1,4.36,Train,Quinoline,Bioorganic & medicinal chemistry.,2017,28215783,10.1016/j.bmc.2017.02.009
+CHEMBL597857,Clc1ccc2[nH]c3c(NCCC[NH+]4CCOCC4)ncnc3c2c1,5.6,Train,Indolpirimidine,Bioorganic & medicinal chemistry.,2017,28215783,10.1016/j.bmc.2017.02.009
+CHEMBL571295,CCOc1nc(C#N)nc(N2CCCCC2)n1,7.05,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL4250264,CCOC(=O)CCC(=O)C(CCc1ccccc1)NC(=O)C(Cc1ccccc1)NC(=O)N1CCOCC1,5.43,Train,Amide,Bioorganic & medicinal chemistry.,2018,30037754,10.1016/j.bmc.2018.07.015
+CHEMBL4247707,CCOC(=O)CCC(=O)/C(CCc1ccccc1)=N\C(=O)[C@H](Cc1ccccc1)NC(=O)N1CCOCC1,6.48,Train,Amide,Bioorganic & medicinal chemistry.,2018,30037754,10.1016/j.bmc.2018.07.015
+CHEMBL4245127,CCOC(=O)CCC(=O)/C(CCc1ccccc1)=N\C(=O)[C@H](CC(C)C)NC(=O)OCc1ccccc1,7.1,Train,Amide,Bioorganic & medicinal chemistry.,2018,30037754,10.1016/j.bmc.2018.07.015
+CHEMBL4249696,CCOC(=O)CCC(=O)/C(CCc1ccccc1)=N\C(=O)[C@H](CC(C)C)NC(=O)N1CCOCC1,6.47,Train,Amide,Bioorganic & medicinal chemistry.,2018,30037754,10.1016/j.bmc.2018.07.015
+CHEMBL4244656,CCOC(=O)CCC(=O)/C(CC(C)C)=N\C(=O)[C@H](Cc1ccccc1)NC(=O)OCc1ccccc1,7.7,Train,Amide,Bioorganic & medicinal chemistry.,2018,30037754,10.1016/j.bmc.2018.07.015
+CHEMBL4237990,CCOC(=O)CCC(=O)/C(CC(C)C)=N\C(=O)[C@H](CC(C)C)NC(=O)N1CCOCC1,6.7,Train,Amide,Bioorganic & medicinal chemistry.,2018,30037754,10.1016/j.bmc.2018.07.015
+CHEMBL4240920,CCOC(=O)CCC(=O)/C(C)=N\C(=O)[C@H](Cc1ccccc1)NC(=O)OCc1ccccc1,6.52,Test,Amide,Bioorganic & medicinal chemistry.,2018,30037754,10.1016/j.bmc.2018.07.015
+CHEMBL4248915,CCOC(=O)CCC(=O)/C(C)=N\C(=O)[C@H](CC(C)C)NC(=O)OCc1ccccc1,6.2,Train,Amide,Bioorganic & medicinal chemistry.,2018,30037754,10.1016/j.bmc.2018.07.015
+CHEMBL2402107,CCOC(=O)c1ccc(NC(=S)NC(=O)c2ccc(Cl)c(Cl)c2)cc1,5.72,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2013,23611656,10.1021/jm301424d
+CHEMBL3827864,CCOC(=O)c1c(/N=C2\S[C@@H](CC(=O)[O-])C(=O)N2c2ccccc2)sc2c1CCCC2,3.92,Train,Thiazolylhydrazone,Bioorganic & medicinal chemistry.,2016,27475533,10.1016/j.bmc.2016.07.013
+CHEMBL566904,CCNc1nc(C#N)nc2c1ncn2-c1cccc(Cl)c1,7.2,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567134,CCNc1nc(C#N)nc2c1ncn2-c1cc(F)cc(F)c1,6.6,Test,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567161,CCNc1nc(C#N)nc(Nc2ccccc2)n1,6.15,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL577121,CCn1cnc2c(Nc3cccc(Cl)c3)nc(C#N)nc21,9.4,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL567341,CCn1cnc2c(Nc3cc(F)cc(F)c3)nc(C#N)nc21,9.7,Test,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL562224,CCN(CC)c1ccc(NC(=O)c2nnc(-c3ccccc3N)o2)cc1,4.44,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL109619,CCN(CC)C(=S)NN=C(C)c1cccc(Br)c1,5.3,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2004,15163200,10.1021/jm030549j
+CHEMBL576847,CCCNc1nc(C#N)nc(Nc2ccccc2)n1,6.1,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL566067,CCCCNc1nc(C#N)nc(Nc2ccccc2)n1,6.05,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL91347,CCCCCCNC(=S)N1CCC(c2cccc(Br)c2)=N1,5.85,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL3628943,CCCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)(NCc2ccn3nccc3n2)C2CCCC2)nn1,8.52,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628942,CCCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)(NCc2ccn3nccc3n2)C(C)C)nn1,7.12,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628933,CCCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)(NC(=O)c2ccncc2)C(C)C)nn1,4.64,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628935,CCCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)(NC(=O)c2ccc3ncsc3c2)C(C)C)nn1,5.44,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628590,CCCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)(NC(=O)c2ccc3ncccc3c2)C(C)C)nn1,5.87,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628932,CCCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)([NH2+]Cc2ccncc2)C(C)C)nn1,5.96,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628938,CCCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)([NH2+]Cc2ccc3ncsc3c2)C2CCCC2)nn1,8.3,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628934,CCCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)([NH2+]Cc2ccc3ncsc3c2)C(C)C)nn1,7.43,Test,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL592646,CCCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)([NH2+]Cc2ccc3ncccc3c2)C2CCCC2)nn1,7.57,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL600002,CCCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)([NH2+]Cc2ccc3ncccc3c2)C(C)C)nn1,6.43,Test,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL181504,CCCCC(=NNC(N)=S)c1ccc(Cl)c(Cl)c1,7.72,Test,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2005,15582423,10.1016/j.bmcl.2004.10.023
+CHEMBL2180669,CCc1s/c(=N\N=C(/C)COc2ccccc2)n(C)c1O,4.5,Train,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL92376,CCC(=NNC(N)=S)c1cccc(C(F)(F)F)c1,7.3,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL313679,CCC(=NNC(N)=S)c1cccc(Br)c1,7.4,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry.,2010,20961766,10.1016/j.bmc.2010.09.056
+CHEMBL92099,CCC(=NNC(N)=S)c1ccc(Cl)c(Cl)c1,7.6,Test,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL560962,Cc1nn(-c2ccccc2)nc1CNC(=O)c1nnc(-c2ccccc2N)o1,5.15,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL4165151,Cc1nc(/N=N/[C@@H](C)c2ccc(Cl)c(Cl)c2)sc1C,5.05,Test,Thiazolylhydrazone,European journal of medicinal chemistry.,2017,29031078,10.1016/j.ejmech.2017.09.047
+CHEMBL1078779,Cc1nc(-c2cnccn2)sc1C(=O)N[C@H](/C=C/S(=O)(=O)c1ccccc1)CCc1ccccc1,6,Train,Vinylsulfone,Bioorganic & medicinal chemistry letters.,2009,19773167,10.1016/j.bmcl.2009.08.098
+CHEMBL1078778,Cc1nc(-c2cccnc2)sc1C(=O)N[C@H](/C=C/S(=O)(=O)c1ccccc1)CCc1ccccc1,5.7,Train,Vinylsulfone,Bioorganic & medicinal chemistry letters.,2009,19773167,10.1016/j.bmcl.2009.08.098
+CHEMBL1078675,Cc1nc(-c2ccccc2)sc1C(=O)N[C@H](/C=C/S(=O)(=O)c1ccccc1)CCc1ccccc1,5,Test,Vinylsulfone,Bioorganic & medicinal chemistry letters.,2009,19773167,10.1016/j.bmcl.2009.08.098
+CHEMBL3786939,Cc1csc(/N=N/[C@@H](C)c2ccc(Cl)c(Cl)c2)n1,6.22,Test,Thiazolylhydrazone,European journal of medicinal chemistry.,2017,29031078,10.1016/j.ejmech.2017.09.047
+CHEMBL1346687,Cc1ccccc1OCC(=O)NCCc1nc2ccccc2[nH]1,5.39,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL1172971,Cc1ccccc1OCC(=O)NCC(=O)OCC(=O)c1ccc2ccccc2c1,6.15,Test,Amide,Journal of medicinal chemistry.,2010,20540517,10.1021/jm100488w
+CHEMBL576648,Cc1cccc(Nc2nc(C#N)nc(NC3CCCC3)n2)c1,7.52,Test,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL117767,Cc1ccc2c(c1)C(=O)C(=O)N2Cc1ccccc1-c1ccccc1,5.55,Train,Isatin,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL3233120,Cc1ccc2[nH]c(CCNC(=O)COc3ccc4ccccc4c3Br)nc2c1,6.21,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL3329473,Cc1ccc(SCCC/N=N/C2=NC(=O)[C@H](C)S2)cc1,4.69,Train,Thiazolylhydrazone,European journal of medicinal chemistry.,2014,25072876,10.1016/j.ejmech.2014.07.092
+CHEMBL1276301,Cc1ccc(SCC/N=N/C2=NC(=O)[C@H](C)S2)cc1,4.69,Train,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL561361,Cc1ccc(CNC(=O)c2nnc(-c3ccccc3N)o2)o1,4.85,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL118638,Cc1ccc(C)c(CN2C(=O)C(=O)c3cc(C)ccc32)c1,4.1,Test,Isatin,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL182795,Cc1ccc(C(=NNC(N)=S)c2ccc(Cl)c(Cl)c2)cc1,7.4,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2005,15582423,10.1016/j.bmcl.2004.10.023
+CHEMBL3329515,Cc1ccc(-c2csc(/N=N/[C@@H](C)c3ccccn3)n2)cc1,6.4,Train,Thiazolylhydrazone,European journal of medicinal chemistry.,2014,25147146,10.1016/j.ejmech.2014.08.012
+CHEMBL1172020,Cc1cc(NC(=O)COC(=O)[C@H](Cc2ccccc2)NC(=O)c2ccco2)no1,4.42,Train,Amide,Journal of medicinal chemistry.,2010,20540517,10.1021/jm100488w
+CHEMBL1173691,Cc1cc(NC(=O)COC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)c2ccc(F)cc2)no1,5.52,Train,Amide,Journal of medicinal chemistry.,2010,20540517,10.1021/jm100488w
+CHEMBL118355,Cc1cc(Cl)cc2c1NC(=O)[C@H]2N=NC(N)=S,4.98,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL118210,Cc1cc(C)c2c(c1)[C@H](N=NC(N)=S)C(=O)N2,4.8,Test,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2003,14505663,10.1016/s0960-894x(03)00756-x
+CHEMBL462539,Cc1cc(C(F)(F)F)nc(/N=N/Cc2ccc(Cl)cc2)n1,4,Train,Hydrazone,Bioorganic & medicinal chemistry.,2008,18996017,10.1016/j.bmc.2008.10.052
+CHEMBL1171857,Cc1cc(C(=O)NCC(=O)O[C@@H](C(=O)Nc2cc(C(F)(F)F)ccc2Cl)c2ccccc2)ccc1[N+](=O)[O-],6.4,Train,Amide,Journal of medicinal chemistry.,2010,20540517,10.1021/jm100488w
+CHEMBL550634,CC1C2CCC(C)(C2)C1NC(=O)c1nnc(-c2ccccc2N)o1,4.44,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL3291135,Cc1c(C=NNC(=O)c2ccc([N+](=O)[O-])cc2)no[n+]1[O-],4.95,Train,Nacylhydrazone,European journal of medicinal chemistry.,2014,24929292,10.1016/j.ejmech.2014.05.077
+CHEMBL3352910,CC1(C)CCc2cc(CCC(=O)c3c(O)cc4c(c3O)CCC(C)(C)O4)ccc2O1,4.67,Train,Dihydrochalcone,Journal of natural products.,2014,25375026,10.1021/np500453x
+CHEMBL3352912,CC1(C)CCc2c(cc(O)c(C(=O)CCc3ccc4c(c3)CC3C(C)(C)CCCC3(C)O4)c2O)O1,5.06,Test,Dihydrochalcone,Journal of natural products.,2014,25375026,10.1021/np500453x
+CHEMBL90866,CC/C(=N\NC(N)=S)c1cccc(Cl)c1,6.66,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL373586,CC/C(=N\NC(N)=S)c1cccc([N+](=O)[O-])c1,6.07,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry letters.,2006,16781147,10.1016/j.bmcl.2006.05.041
+CHEMBL93166,CC/C(=N\NC(N)=S)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,7.7,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL420616,CC/C(=N/NC(=S)Nc1ccc(C(F)(F)F)cc1)c1cccc(Br)c1,5.8,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL562106,CC[C@H](NC(=O)COC(=O)c1cccnc1N)c1ccc(Br)cc1,4.08,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL2180345,CC[C@@H]1S/C(=N\N=C(/C)COc2ccccc2)NC1=S,4.73,Train,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL2180341,CC[C@@H]1S/C(=N\N=C(/C)COc2ccccc2)N(c2ccccc2)C1=O,5.02,Test,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL2180347,CC[C@@H]1S/C(=N\N=C(/C)COc2ccccc2)N(c2ccc(OC)cc2)C1=O,5.06,Train,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL2180346,CC[C@@H]1S/C(=N\N=C(/C)COc2ccccc2)N(c2ccc(C)cc2)C1=O,4.93,Train,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL1173325,CC(NC(=O)c1ccccc1Cl)C(=O)OC(C(=O)Nc1cc(C(F)(F)F)ccc1Cl)c1ccccc1,4.96,Test,Amide,Journal of medicinal chemistry.,2010,20540517,10.1021/jm100488w
+CHEMBL2180665,CC(COc1ccccc1)/N=N/C1=NC(=O)C(C(C)C)S1,4.72,Train,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL566691,CC(C)Nc1nc(C#N)nc(Nc2ccccc2)n1,6.05,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL565866,CC(C)CNc1nc(C#N)nc(Nc2ccccc2)n1,6.05,Train,Triazinenitrile,Journal of medicinal chemistry.,2010,19908842,10.1021/jm901069a
+CHEMBL454688,CC(C)CC1NC(C(=O)Nc2ccccc2)CCCCC[C@@H](/C=C/S(=O)(=O)c2ccccc2)NC1=O,5.7,Train,Vinylsulfone,Bioorganic & medicinal chemistry letters.,2008,18585034,10.1016/j.bmcl.2008.06.012
+CHEMBL374508,CC(C)CC(NC(=O)C1OC1C(=O)O)C(=O)NCCCCNC(=N)N,6.4,Train,Epoxyester,Bioorganic & medicinal chemistry.,2016,27475533,10.1016/j.bmc.2016.07.013
+CHEMBL399361,CC(C)CC(N[C@H](c1ccc(-c2ccc(S(C)(=O)=O)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccccc1,9.7,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL195454,CC(C)CC(N[C@H](c1ccc(-c2ccc(N3CC[NH2+]CC3)cc2)cc1)C(F)(F)F)C(=O)NCC#N,8.74,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1172022,CC(C)C(NC(=O)c1ccco1)C(=O)NCC(c1ccco1)[NH+]1CCCCC1,5.15,Train,Amide,Journal of medicinal chemistry.,2010,20540517,10.1021/jm100488w
+CHEMBL1290191,CC(C)C(N[C@H](c1ccc(-c2ccc(S(C)(=O)=O)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccccc1,8.7,Test,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1288530,CC(C)C(N[C@H](c1ccc(-c2ccc(S(C)(=O)=O)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccc(C#N)cc1F,9.7,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1288531,CC(C)C(N[C@H](c1ccc(-c2ccc(C3(C(N)=O)CC3)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccc(C#N)cc1F,9.7,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1288532,CC(C)C(N[C@H](c1ccc(-c2ccc([C@H](O)C(F)F)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccc(C#N)cc1F,9.4,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL3352911,CC(C)=CCc1cc(CCC(=O)c2c(O)cc3c(c2O)CCC(C)(C)O3)ccc1O,4.92,Train,Dihydrochalcone,Journal of natural products.,2014,25375026,10.1021/np500453x
+CHEMBL3360923,CC(C)=CCC/C(C)=C\Cc1c(O)cc(O)c(C(=O)CCc2ccc(O)cc2)c1O,5.15,Train,Dihydrochalcone,Journal of natural products.,2014,25375026,10.1021/np500453x
+CHEMBL3628944,CC(C)[C@](C)(NCc1ccn2nccc2n1)c1cn(C(CCS(C)(=O)=O)C(=O)COc2c(F)c(F)cc(F)c2F)nn1,6.33,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628941,CC(C)[C@](C)([NH2+]Cc1ccc2occc2c1)c1cn(C(CCS(C)(=O)=O)C(=O)COc2c(F)c(F)cc(F)c2F)nn1,6.06,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628936,CC(C)[C@](C)([NH2+]Cc1ccc2ncsc2c1)c1cn(C(CCS(C)(=O)=O)C(=O)COc2c(F)c(F)cc(F)c2F)nn1,6.9,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628591,CC(C)[C@](C)([NH2+]Cc1ccc2ncccc2c1)c1cn(C(CCS(C)(=O)=O)C(=O)COc2c(F)c(F)cc(F)c2F)nn1,6.25,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL1289764,CC(C)(F)CC(N[C@H](c1ccc(-c2cn[nH]c2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccccc1,7.48,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1289441,CC(C)(F)CC(N[C@H](c1ccc(-c2ccc(S(C)(=O)=O)cc2)cc1)C(F)(F)F)C(=O)NCC#N,6.74,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1288521,CC(C)(F)CC(N[C@H](c1ccc(-c2ccc(S(C)(=O)=O)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)CCc1ccccc1,6.29,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1289660,CC(C)(F)CC(N[C@H](c1ccc(-c2ccc(S(C)(=O)=O)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccncc1,8.22,Test,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1289440,CC(C)(F)CC(N[C@H](c1ccc(-c2ccc(S(C)(=O)=O)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccccc1,8.1,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1289553,CC(C)(F)CC(N[C@H](c1ccc(-c2ccc(S(C)(=O)=O)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)CC(F)(F)F,6.89,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1288525,CC(C)(F)CC(N[C@H](c1ccc(-c2ccc(C3(C(N)=O)CC3)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccccc1,8.52,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1288526,CC(C)(F)CC(N[C@H](c1ccc(-c2ccc(C3(C(=O)N4CCOCC4)CC3)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccccc1,8.52,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1288527,CC(C)(F)CC(N[C@H](c1ccc(-c2ccc([C@H](O)C(F)F)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccccc1,8.1,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL1288528,CC(C)(F)CC(N[C@H](c1ccc(-c2ccc(-c3ccncc3)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccccc1,8.1,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL259018,CC(C)(C)OC(=O)NCCc1nnc(S(=O)(=O)Cc2ccc(Cl)cc2Cl)o1,3.33,Train,Amide,Journal of medicinal chemistry.,2008,18333608,10.1021/jm701500e
+CHEMBL261812,CC(C)(C)OC(=O)NCc1nnc(S(=O)(=O)Cc2ccc(Cl)cc2Cl)o1,3.39,Train,Amide,Journal of medicinal chemistry.,2008,18333608,10.1021/jm701500e
+CHEMBL1290418,CC(C)(C)C(N[C@H](c1ccc(-c2ccc(S(C)(=O)=O)cc2)cc1)C(F)(F)F)C(=O)N[C@@H](C#N)Cc1ccccc1,6.42,Train,Amide,Bioorganic & medicinal chemistry letters.,2010,21041084,10.1016/j.bmcl.2010.10.015
+CHEMBL3233116,CC(=O)n1c(CCNC(=O)COc2ccc(Br)cc2)nc2ccccc21,5,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL378621,CC(=O)C1=CCCc2ccccc21,5.87,Train,Dihydronaphthalene,Bioorganic & medicinal chemistry letters.,2006,16781147,10.1016/j.bmcl.2006.05.041
+CHEMBL108865,CC(=NNC(N)=S)c1cccc(Oc2ccccc2)c1,5,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2004,15163200,10.1021/jm030549j
+CHEMBL330050,CC(=NNC(N)=S)c1cccc(C(F)(F)F)c1,6.77,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL108101,CC(=NNC(N)=S)c1cccc(C(C)=NNC(N)=S)c1,5.3,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2004,15163200,10.1021/jm030549j
+CHEMBL108035,CC(=NNC(N)=S)c1cccc(-c2ccccc2)c1,5.1,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2004,15163200,10.1021/jm030549j
+CHEMBL109893,CC(=NNC(N)=S)c1ccc(Oc2ccccc2)cc1,5,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2004,15163200,10.1021/jm030549j
+CHEMBL326220,CC(=NNC(=S)N1CCN(C)CC1)c1cccc(Br)c1,5.3,Test,Thiosemicarbazone,Journal of medicinal chemistry.,2004,15163200,10.1021/jm030549j
+CHEMBL108700,CC(=NNC(=S)N1CCCCC1)c1cccc(Br)c1,5.3,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2004,15163200,10.1021/jm030549j
+CHEMBL3827174,C=CCn1c(C)c(C(=O)OCC)s/c1=N\c1sc2c(c1C(=O)OCC)CCCC2,4.07,Train,Thiazolylhydrazone,Bioorganic & medicinal chemistry.,2016,27475533,10.1016/j.bmc.2016.07.013
+CHEMBL3828195,C=CCN1C(=O)[C@H](CC(=O)[O-])S/C1=N\c1sc2c(c1C(=O)OCC)CCCC2,4.3,Train,Thiazolylhydrazone,Bioorganic & medicinal chemistry.,2016,27475533,10.1016/j.bmc.2016.07.013
+CHEMBL3827125,C=CCN1C(=O)[C@H](CC(=O)[O-])S/C1=N\c1sc2c(c1C(=O)OC(C)C)CCCC2,3.95,Train,Thiazolylhydrazone,Bioorganic & medicinal chemistry.,2016,27475533,10.1016/j.bmc.2016.07.013
+CHEMBL3828526,C=CCn1c(-c2ccccc2)cs/c1=N\c1sc2c(c1C(=O)OCC)CCCC2,5.62,Train,Thiazolylhydrazone,Bioorganic & medicinal chemistry.,2016,27475533,10.1016/j.bmc.2016.07.013
+CHEMBL3233115,C=CCCn1c(CCNC(=O)COc2ccccc2Cl)nc2ccccc21,4.62,Train,Amide,Journal of medicinal chemistry.,2014,24533839,10.1021/jm401709b
+CHEMBL212718,C=CC(=O)C1=CCCc2ccc(Br)cc21,6.1,Train,Dihydronaphthalene,Bioorganic & medicinal chemistry letters.,2006,16781147,10.1016/j.bmcl.2006.05.041
+CHEMBL2180339,C/C(COc1ccccc1)=N\N=C1/SCC(=O)N1c1ccccc1,4.99,Train,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL2180670,C/C(COc1ccccc1)=N\N=c1/sc(C(C)C)c(O)n1C,5.1,Test,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL2180344,C/C(COc1ccccc1)=N\N=C1/S[C@H](c2ccccc2)C(=S)N1c1ccccc1,5.15,Test,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL2180340,C/C(COc1ccccc1)=N\N=C1/S[C@@H](C)C(=O)N1c1ccccc1,4.97,Train,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL2180342,C/C(COc1ccccc1)=N\N=C1/S[C@@H](C(C)C)C(=O)N1c1ccccc1,5.18,Train,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL90819,C/C(=N\NC(N)=S)c1ccccc1Br,5.41,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL88734,C/C(=N\NC(N)=S)c1cccc(Br)c1,6.89,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL90181,C/C(=N\NC(N)=S)c1ccc(Cl)s1,5.72,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL90512,C/C(=N\NC(N)=S)c1ccc(Cl)c(Cl)c1,7.12,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL89990,C/C(=N\NC(N)=S)c1ccc(Br)s1,5.42,Test,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL323975,C/C(=N\NC(N)=S)c1ccc(-c2ccccc2)cc1,5.3,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2004,15163200,10.1021/jm030549j
+CHEMBL89973,C/C(=N\NC(N)=S)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,7.22,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL90428,C[C@H]1CN(C(N)=S)N=C1c1cccc(Cl)c1,6.64,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL91003,C[C@H]1CN(C(N)=S)N=C1c1cccc(C(F)(F)F)c1,7.4,Test,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL406038,C[C@H]1CN(C(N)=S)N=C1c1cccc(Br)c1,7.1,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL91544,C[C@H]1CN(C(N)=S)N=C1c1ccc(Cl)c(Cl)c1,7.15,Train,Thiosemicarbazone,Journal of medicinal chemistry.,2002,12061873,10.1021/jm010459j
+CHEMBL550960,C[C@H](NC(=O)c1nnc(-c2ccccc2N)o1)C12CC3CC(CC(C3)C1)C2,4.74,Train,Amide,Journal of medicinal chemistry.,2009,19637873,10.1021/jm9009229
+CHEMBL2409542,C[C@H](/N=N/c1nc(-c2ccccc2)cs1)c1ccccn1,5.89,Train,Thiazolylhydrazone,European journal of medicinal chemistry.,2014,25147146,10.1016/j.ejmech.2014.08.012
+CHEMBL3329524,C[C@H](/N=N/c1nc(-c2ccc3ccccc3c2)cs1)c1ccccn1,8,Train,Thiazolylhydrazone,European journal of medicinal chemistry.,2014,25147146,10.1016/j.ejmech.2014.08.012
+CHEMBL3329518,C[C@H](/N=N/c1nc(-c2ccc(F)cc2)cs1)c1ccccn1,6.52,Train,Thiazolylhydrazone,European journal of medicinal chemistry.,2014,25147146,10.1016/j.ejmech.2014.08.012
+CHEMBL3329520,C[C@H](/N=N/c1nc(-c2ccc(Cl)cc2Cl)cs1)c1ccccn1,5.32,Train,Thiazolylhydrazone,European journal of medicinal chemistry.,2014,25147146,10.1016/j.ejmech.2014.08.012
+CHEMBL3329521,C[C@H](/N=N/c1nc(-c2ccc(Cl)c(Cl)c2)cs1)c1ccccn1,6.4,Train,Thiazolylhydrazone,European journal of medicinal chemistry.,2014,25147146,10.1016/j.ejmech.2014.08.012
+CHEMBL1275672,C[C@@H]1SC(/N=N/CCCSc2ccccc2)=NC1=S,7.22,Test,Thiazolylhydrazone,Bioorganic & medicinal chemistry.,2010,20961766,10.1016/j.bmc.2010.09.056
+CHEMBL1276198,C[C@@H]1SC(/N=N/CCCSc2ccccc2)=NC1=O,6.4,Test,Thiazolylhydrazone,Journal of medicinal chemistry.,2012,23167554,10.1021/jm301518v
+CHEMBL1276253,C[C@@H]1SC(/N=N/CCCSc2ccc(Cl)cc2)=NC1=O,6.7,Train,Thiazolylhydrazone,Bioorganic & medicinal chemistry.,2010,20961766,10.1016/j.bmc.2010.09.056
+CHEMBL3329474,C[C@@H]1SC(/N=N/CCCCSc2ccccc2)=NC1=O,6.4,Train,Thiazolylhydrazone,European journal of medicinal chemistry.,2014,25072876,10.1016/j.ejmech.2014.07.092
+CHEMBL3627733,C[C@@]([NH2+]Cc1ccc2occc2c1)(c1cn(C(CCS(C)(=O)=O)C(=O)COc2c(F)c(F)cc(F)c2F)nn1)C1CCCC1,6.1,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3628939,C[C@@]([NH2+]Cc1ccc2ncsc2c1)(c1cn(C(CCS(C)(=O)=O)C(=O)COc2c(F)c(F)cc(F)c2F)nn1)C1CCCC1,7.6,Train,Tetrafluorophenoximethylketone,Bioorganic & medicinal chemistry letters.,2015,26144347,10.1016/j.bmcl.2015.06.066
+CHEMBL3329506,Brc1ccc(-c2csc(/N=N/Cc3ccccn3)n2)cc1,5.02,Train,Thiazolylhydrazone,European journal of medicinal chemistry.,2014,25147146,10.1016/j.ejmech.2014.08.012
+CHEMBL444202,[O-][n+]1onc2ccc(C=NN=Cc3ccccc3O)cc21,4.17,Test,Hydrazone,Bioorganic & medicinal chemistry.,2008,18547811,10.1016/j.bmc.2008.05.038
+CHEMBL470290,[O-][n+]1onc2ccc(C=NN=Cc3ccc(O)c(Br)c3)cc21,4.14,Train,Hydrazone,Bioorganic & medicinal chemistry.,2008,18547811,10.1016/j.bmc.2008.05.038
+CHEMBL460050,[O-][n+]1onc2ccc(/C=N/NC(=S)Nc3ccccc3)cc21,4.11,Train,Thiosemicarbazone,Bioorganic & medicinal chemistry.,2008,18547811,10.1016/j.bmc.2008.05.038
+CHEMBL504491,[O-][n+]1onc2ccc(/C=N/N=C/c3ccc(O)cc3)cc21,4,Train,Hydrazone,Bioorganic & medicinal chemistry.,2008,18547811,10.1016/j.bmc.2008.05.038
