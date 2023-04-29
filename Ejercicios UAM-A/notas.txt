@@ -1,0 +1,56 @@
+# Clase 20/01/2019
+---
+Paradigma: 
+La forma en que un grupo de personas hace algo.
+
+Paradigma estructurado:
+Darle solución a un problema en una secuencia de instrucciones finitas.
+Hay un conjunto de entradas, de procesamiento y de salidas.
+
+* Métodos
+* Lenguajes de programación
+* Herramientas para el diseño y la codificación
+
+Abstracción:
+Extraer algunas características del objeto que observamos.
+
+Diagrama de flujo:
+Herramienta gráfica para diseñar algoritmos.
+
+Pseudocódigo:
+Enunciar cada instrucción en un lenguaje descriptivo.
+
+Paradigma orientado a objetos:
+Pensar el problema en términos de los objetos que existen en el mundo real.
+Crear entidades con características para resolver un problema y relacionarlas entre sí para relacionar un problema más grande.
+
+# Clase 21/05/2019
+---
+
+Mnemónico:
+Lenguaje intermedio entre el máquina y el compilado.
+
+Compilador:
+Es un traductor de código. Hace un análisis léxico y semántico.
+
+Sistema operativo:
+Permite la interacción con la computadora, máquina u ordenador.
+
+Algoritmo:
+Es una serie de pasos finitos para resolver una tarea.
+
+# Clase
+---
+
+Función:
+Descomponer el problema en subproblemas a través del análisis para proponer una sus soluciones por problema y al final integrar por medio de la síntesis para resolver el problema.
+
+# Clase
+---
+
+# Bibliografía
+---
+Galaviz, José. (2003). Elogio a la pereza: la ciencia de la computación en una perspectiva histórica. México: las prensas de ciencias.
+De Kruif, Paul. Cazadores de microbios. 576.09D464 (Vasconcelos) AG QR31.A1
+K785 (Cuajimalpa)  	AG QR31.A1
+K78 
